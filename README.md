@@ -5,7 +5,6 @@
 * **Roll Number:** 25L-0520
 * **Section:** BCS-3H
 
-\---
 
 ## Short Description of the Programs
 
